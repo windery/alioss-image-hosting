@@ -1,0 +1,19 @@
+{
+  "name": "alioss-image-hosting",
+  "version": "1.0.0",
+  "description": "Use aliyun oss like a image hosting.",
+  "main": "app.js",
+  "repository": "https://github.com/windery/alioss-image-hosting",
+  "author": "Windery Huang",
+  "license": "MIT",
+  "dependencies": {
+    "ali-oss": "6.1.0",
+    "clipboard": "^2.0.4",
+    "gkm": "0.2.0",
+    "inquirer": "6.2.1"
+  },
+  "bin": {
+    "ossih-config": "./init-config.js",
+    "ossih-upload": "./upload.js"
+  }
+}
