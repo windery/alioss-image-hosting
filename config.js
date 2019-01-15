@@ -65,7 +65,7 @@ let initConfig = async () => {
         {
             type: 'list',
             name: 'output',
-            message: 'Choose image url format: ',
+            message: 'Choose image url output format: ',
             choices: [
                 'url', 
                 'markdown'

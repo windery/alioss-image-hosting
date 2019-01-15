@@ -1,4 +1,4 @@
-#!/usr/bin/env node
+#!/usr/bin/env node --no-warnings
 
 const {spawn} = require('child_process');
 const config = require('./config');
