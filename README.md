@@ -10,10 +10,6 @@ brew install pngpaste
 ```
 - [Aliyun OSS](https://help.aliyun.com/product/31815.html) account
     
-```shell
-brew install pngpaste
-```
-
 ## Install  
 ```bash
 npm install alioss-image-hosting -g
