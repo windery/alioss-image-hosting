@@ -1,6 +1,6 @@
-#!/usr/bin/env node
+#!/usr/bin/env node --no-warnings
 
-const config = require('./config');
+const config = require('./lib/config');
 
 config.show().catch((err) => {
     console.log(err);

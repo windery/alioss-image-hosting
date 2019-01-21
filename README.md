@@ -52,6 +52,9 @@ copy image url to clipboard success
 The image url will replace the image data on clipboard, just paste it to wherever you like.
 The output format will be url/markdown as you configured.
 
+## Alfred Workflow
+Available keywork is `ih`, which means image hosting. When keyword matches, `ossih-upload` will run in background, then you will get the image url on clipborad.
+
 ## License
 MIT
 

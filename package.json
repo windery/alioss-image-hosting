@@ -1,6 +1,6 @@
 {
   "name": "alioss-image-hosting",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Use aliyun oss like a image hosting.",
   "main": "app.js",
   "repository": "https://github.com/windery/alioss-image-hosting",
