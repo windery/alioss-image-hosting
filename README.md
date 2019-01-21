@@ -17,7 +17,7 @@ npm install alioss-image-hosting -g
 
 ## Usage  
 1. configure  
-    You just need to initialize configuration once, otherwise you want to change your aliyun oss identities.
+    You just need to initialize configuration once, unless you want to change your aliyun oss identities.
 ```bash
 ~ ossih-config
 ~ ossih-config
